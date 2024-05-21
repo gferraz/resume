@@ -4,6 +4,7 @@
 
 - Location: Greater Curitiba
 - LinkedIn: [Gilson Ferraz](https://www.linkedin.com/in/gilson-ferraz-a290b64/)
+- Github: [gferraz](https://github.com/gferraz)
 
 ## Summary
 
@@ -73,14 +74,24 @@ A seasoned software development professional with over three decades of industry
 - Developed an office suite product for Brazilian market composed of a text editor, 2D graphics and fonts editor, and presentation application with script editor, interprete and runtime. Used **C language** with Borland Graphics Interface library (BGI)
 - Developed a formula interpreter extension for OpenAccess Suite (from Software Products International) in **Pascal**.
 
-## Education
+## Academic Education
 
 ### Pontifícia Universidade Católica do Paraná (PR, Brazil)
 
 **BA, Computer Networks and Distributed Systems** (1993 - 1993)
 **BA, Computer Science** (1986 - 1990)
 
-Please review this and let me know if there are any changes you'd like to make. Remember to only include information you're comfortable sharing and always review your resume for accuracy before sending it out.
+## Technical Training and Courses
+
+### Sage Spain (Madrid, Spain)
+**Sage One Platform** (2013 - 2013)
+
+Three week hands on training on Sage One Platform, which was a security and functional layer above **Ruby on Rails** that was used for all Sage One product line in the world.
+
+### Hypercom Europe (Edinburg, Scotland)
+**EMV training** (2021 - 2001)
+
+Two-week training on EMV'96 chip standard tha make POS smartcards work consistently anywhere in the world to deliver the same result – secure, seamless and reliable in-store payments.
 
 ### Genesys Systems (Orlando, FL)
 
