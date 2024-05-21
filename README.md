@@ -89,9 +89,9 @@ A seasoned software development professional with over three decades of industry
 Three week hands on training on Sage One Platform, which was a security and functional layer above **Ruby on Rails** that was used for all Sage One product line in the world.
 
 ### Hypercom Europe (Edinburg, Scotland)
-**EMV training** (2021 - 2001)
+**EMV (Europay, Visa, Mastercard) Smartcard training** (2021 - 2001)
 
-Two-week training on EMV'96 chip standard tha make POS smartcards work consistently anywhere in the world to deliver the same result – secure, seamless and reliable in-store payments.
+Two-week training on EMV'96 chip standards tha make POS smartcards work consistently anywhere in the world to deliver secure and reliable in-store payments. Content: EMV Architecture, Application Protocol Data Unit, Cryptographic operations, ISO 7816, etc.
 
 ### Genesys Systems (Orlando, FL)
 
