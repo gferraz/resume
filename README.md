@@ -29,16 +29,20 @@ A seasoned software development professional with over three decades of industry
 **Business Unit Director - Startup and Small Business** (October 2012 - July 2015)
 
 - [Sage acquired Cenize Software in 2012](https://mergr.com/the-sage-group-acquires-cenize-inform%C3%A1tica)
-- Managed the product portfolio from Cenize, marketing, and sales for the segment.
+
+- Managed the product portfolio rebranded from Cenize, marketing
+- As a SSB director, I, with the helpp of our team, achieved our requested 2 year revenue growth
+
 - Designed and Developed Sage One - Invoicing System compliant with Brazil NF-e standard. Developed in **Ruby on Rails**
 
 ### Cenize Software
 
 **Founder, CEO** (June 2003 - September 2012)
 
-- As founder and CEO of Cenize
-  - Created a financial software suite for small business, called jFinanças (developed in **Delphi** for Windows)
+- As CEO of Cenize
+  - Commercialized a financial software suite for small business, called jFinanças (developed in **Delphi** for Windows)
   - which became the flagship product of the company, surpassing 12000 users (7000 paid licenses). **Product devemlopment**
+  - Sales throught online purchase only, with very optimized Google ads campaign.
 - As a developer, I've designed and developed custom web applications for Cenize customer, such as:
   - 360º Employee review process software for Bematech, in **Ruby on Rails**
   - Cockpit dashboard to create business strategic goals and follow up, also in **Ruby on Rails**
@@ -49,8 +53,8 @@ A seasoned software development professional with over three decades of industry
 
 **Software Development Director, Latin America** (1998 - 2002)
 
-- Coordinated software development teams of Latin American region.
-  - Provided assistance, training and tools for remote, assuring quality level for POS applications deployed in Argentina, Brazil, Chile, Mexico, Colombia, Costa Rica, Venezuela and Puerto Rico.
+- Based on HQ in Phoenix, Az, I coordinated software development teams of Latin American region.
+  - Provided assistance, training and tools for remote, assuring standard quality level for POS applications deployed in Argentina, Brazil, Chile, Mexico, Colombia, Costa Rica, Venezuela and Puerto Rico.
 
 ### Hypercom do Brasil (1995 - 1997)
 
@@ -73,6 +77,7 @@ A seasoned software development professional with over three decades of industry
 
 - Developed an office suite product for Brazilian market composed of a text editor, 2D graphics and fonts editor, and presentation application with script editor, interprete and runtime. Used **C language** with Borland Graphics Interface library (BGI)
 - Developed a formula interpreter extension for OpenAccess Suite (from Software Products International) in **Pascal**.
+- Maintained a Payroll system, called Pagor, wirtten in **C language**, using Faircom B-tree database library
 
 ## Academic Education
 
@@ -85,14 +90,20 @@ A seasoned software development professional with over three decades of industry
 ## Technical Training and Courses
 
 ### Sage Spain (Madrid, Spain)
+
 **Sage One Platform** (2013 - 2013)
 
 Three week hands on training on Sage One Platform, which was a security and functional layer above **Ruby on Rails** that was used for all Sage One product line in the world.
 
 ### Hypercom Europe (Edinburg, Scotland)
+
 **EMV (Europay, Visa, Mastercard) Level 2 development training** (2001 - 2001)
 
 Two-week training on EMV Level 2 standards tha make POS smartcards work consistently anywhere in the world to deliver secure and reliable in-store payments. Content: EMV Architecture, Application Protocol Data Unit, Cryptographic operations, ISO 7816, etc.
+
+### Hypercom (Phoenix, AZ, USA)
+
+Three month hands-on training to devevelop embedded POS application on Hypercom OS using **Z80 Assembly**
 
 ### Genesys Systems (Orlando, FL)
 
