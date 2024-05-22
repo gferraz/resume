@@ -16,13 +16,16 @@ A seasoned software development professional with over three decades of industry
 
 **Executive Director (CEO)** (October 2018 - November 2023)
 
+- Enter as a partner of Devmaker in 2016, and joined the team in 2018 as general manager to avert a crisis due to poor an late delivey of projects been developed.
+- After 18 moths, we're become a functional software house, delivering, in average 12 new mobile/web projects per year.
 - Oversaw the strategic vision, business development, and project management of the company.Devmaker is software development company that design and develop custom software web and mobile solutions for clients across various industries, I oversaw the strategic vision, business development, and project management of the company.
+- For some strategic projects, I acted as a product owner, solution designer, and sometimes web developer.
 
 ### Self Unemployed
 
 **Sabbatical** (July 2015 - June 2016)
 
-- One year, just taking care of the family.
+- One year, just taking care of the family, studiying and making investing in small ventures.
 
 ### Sage
 
